@@ -6,10 +6,7 @@
 
 package modelo;
 
-/**
- *
- * @author marcelosiedler
- */
+
 public class Usuario {
     
     private String login;
